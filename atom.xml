@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://HowAreuToday3.github.io</id>
+    <title>Oceans</title>
+    <updated>2023-01-16T14:37:37.076Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://HowAreuToday3.github.io"/>
+    <link rel="self" href="https://HowAreuToday3.github.io/atom.xml"/>
+    <subtitle>良辰美景，赏心乐事</subtitle>
+    <logo>https://HowAreuToday3.github.io/images/avatar.png</logo>
+    <icon>https://HowAreuToday3.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Oceans</rights>
+    <entry>
+        <title type="html"><![CDATA[星海永恒]]></title>
+        <id>https://HowAreuToday3.github.io/post/xing-hai-yong-heng/</id>
+        <link href="https://HowAreuToday3.github.io/post/xing-hai-yong-heng/">
+        </link>
+        <updated>2023-01-11T14:22:43.000Z</updated>
+    </entry>
+</feed>
